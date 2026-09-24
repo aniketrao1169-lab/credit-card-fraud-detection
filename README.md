@@ -37,29 +37,6 @@ credit-card-fraud-detection/
 ├── requirements.txt      # Dependencies
 ├── README.md            # This file
 └── SETUP_GUIDE.md       # Installation guide
-```
-
-## 🚀 Quick Start
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Manish0729/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the demo**
-   ```bash
-   python demo_real_data_efficient.py
-   ```
-
-4. **Create visualizations**
-   ```bash
-   python create_charts.py
-   ```
 
 ## 📊 Results & Performance
 | Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
